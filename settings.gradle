@@ -1,0 +1,2 @@
+rootProject.name='ioriapp'
+include ':app'
