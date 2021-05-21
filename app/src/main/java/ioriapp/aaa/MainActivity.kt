@@ -21,9 +21,12 @@ class MainActivity : AppCompatActivity() {
         var textAiueo = binding.moji
         var change = binding.btnChange
 
-        change.setOnClickListener(
+        change.setOnClickListener{
             textAiueo.text = "かきくけこ"
-        )
+
+        }
+
+
     }
 
 
